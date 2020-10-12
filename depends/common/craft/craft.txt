@@ -1,1 +1,1 @@
-craft https://github.com/libretro/Craft/archive/3f1d38299dccb74ad0726b1c743a0c34fde01e80.zip
+craft https://github.com/libretro/Craft/archive/347d2efb82dfb4fe0f2590d967125907dcc3c64a.zip
