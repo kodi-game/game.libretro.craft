@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.craft"
 		name="Minecraft (Craft)"
-		version="0.0.1.3"
+		version="0.0.1.4"
 		provider-name="Michael Fogleman">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
