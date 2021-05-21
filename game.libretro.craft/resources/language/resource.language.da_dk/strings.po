@@ -22,15 +22,15 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Right analog sensitivity"
+msgid "Resolution (restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Analog deadzone size"
+msgid "Show info text"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Draw distance"
+msgid "Jumping Flash mode"
 msgstr ""
 
 msgctxt "#30004"
@@ -38,17 +38,17 @@ msgid "Field of view"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Inverted aim"
+msgid "Draw distance"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Jumping Flash mode"
+msgid "Inverted aim"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Resolution (restart)"
+msgid "Right analog sensitivity"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Show info text"
+msgid "Analog deadzone size"
 msgstr ""
