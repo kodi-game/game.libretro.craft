@@ -14,10 +14,10 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Minecraft (Craft)</summary>
-		<description lang="en_GB">Craft is a simple Minecraft clone written in C using modern OpenGL.</description>
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.craft</source>
+		<summary lang="en_GB">Minecraft (Craft)</summary>
+		<description lang="en_GB">Craft is a simple Minecraft clone written in C using modern OpenGL.</description>
 	</extension>
 </addon>
