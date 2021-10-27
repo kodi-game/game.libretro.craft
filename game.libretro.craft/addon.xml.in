@@ -19,6 +19,7 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.craft</source>
 		<summary lang="en_GB">Minecraft (Craft)</summary>
+		<description lang="da_DK">Craft er en simpel Minecraft-klon skrevet i C ved hjælp af moderne OpenGL.</description>
 		<description lang="en_GB">Craft is a simple Minecraft clone written in C using modern OpenGL.</description>
 	</extension>
 </addon>
