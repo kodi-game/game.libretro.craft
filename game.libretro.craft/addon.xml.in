@@ -22,5 +22,6 @@
 		<description lang="da_DK">Craft er en simpel Minecraft-klon skrevet i C ved hjælp af moderne OpenGL.</description>
 		<description lang="en_GB">Craft is a simple Minecraft clone written in C using modern OpenGL.</description>
 		<description lang="es_MX">Craft es un simple clon de Minecraft escrito en C utilizando OpenGL moderno.</description>
+		<description lang="zh_CN">Craft 是一个用 C 语言编写使用现代 OpenGL 的简单 Minecraft 克隆。</description>
 	</extension>
 </addon>
