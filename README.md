@@ -13,12 +13,16 @@ MIT
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.craft/resources/icon.png)
 
 ### Fanart
 
-Help make me fanart!
+![Fanart](game.libretro.craft/resources/fanart.jpg)
 
 ### Screenshots
 
 Help make me screenshots!
+
+### Disclaimer
+
+*Image credit: Aaron Smith*
