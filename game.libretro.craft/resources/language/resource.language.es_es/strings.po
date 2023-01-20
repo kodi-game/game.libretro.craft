@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "Craft is a simple Minecraft clone written in C using modern OpenGL."
-msgstr ""
+msgstr "Craft es un simple clon de Minecraft escrito en C usando OpenGL moderno."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Aaron Smith"
@@ -35,32 +35,32 @@ msgstr "Ajustes"
 
 msgctxt "#30001"
 msgid "Resolution (restart)"
-msgstr ""
+msgstr "Resolución (reinicio)"
 
 msgctxt "#30002"
 msgid "Show info text"
-msgstr ""
+msgstr "Mostrar Texto Informativo"
 
 msgctxt "#30003"
 msgid "Jumping Flash mode"
-msgstr ""
+msgstr "Modo Flash de Salto"
 
 msgctxt "#30004"
 msgid "Field of view"
-msgstr ""
+msgstr "Campo de Visión"
 
 msgctxt "#30005"
 msgid "Draw distance"
-msgstr ""
+msgstr "Distancia de Trazado"
 
 msgctxt "#30006"
 msgid "Inverted aim"
-msgstr ""
+msgstr "Objetivo Invertido"
 
 msgctxt "#30007"
 msgid "Right analog sensitivity"
-msgstr ""
+msgstr "Sensibilidad Analógico Derecho"
 
 msgctxt "#30008"
 msgid "Analog deadzone size"
-msgstr ""
+msgstr "Tamaño de la Zona Muerta Analógica"
