@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Craft is a simple Minecraft clone written in C using modern OpenGL."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Image credit: Aaron Smith"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "설정"
