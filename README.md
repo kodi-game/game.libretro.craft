@@ -13,11 +13,11 @@ MIT
 
 ### Icon
 
-![Icon](game.libretro.craft/resources/icon.png)
+![Minecraft (Craft) icon](game.libretro.craft/resources/icon.png)
 
 ### Fanart
 
-![Fanart](game.libretro.craft/resources/fanart.jpg)
+![Minecraft (Craft) fanart](game.libretro.craft/resources/fanart.jpg)
 
 ### Screenshots
 
