@@ -35,5 +35,6 @@
 		<disclaimer lang="en_GB">Image credit: Aaron Smith</disclaimer>
 		<disclaimer lang="es_ES">Créditos de la imagen: Aaron Smith</disclaimer>
 		<disclaimer lang="it_IT">Credito immagine: Aaron Smith</disclaimer>
+		<disclaimer lang="zh_CN">图片来源：Aaron Smith</disclaimer>
 	</extension>
 </addon>
