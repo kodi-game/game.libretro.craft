@@ -1,0 +1,26 @@
+From dfa3ac6f153122ed2668290d9b2dd36a3ad6befd Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 7 Dec 2023 11:18:00 -0800
+Subject: [PATCH] Fix segfault if main_init() succeeds but game fails to load
+
+---
+ src/main.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/src/main.c b/src/main.c
+index e780e4e..cfb3777 100644
+--- a/src/main.c
++++ b/src/main.c
+@@ -3441,7 +3441,8 @@ void main_unload_game(void)
+ 
+ void main_deinit(void)
+ {
+-   db_save_state(info.s->x, info.s->y, info.s->z, info.s->rx, info.s->ry);
++   if (info.s)
++      db_save_state(info.s->x, info.s->y, info.s->z, info.s->rx, info.s->ry);
+    db_close();
+    db_disable();
+    client_stop();
+-- 
+2.34.1
+
