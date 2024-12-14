@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: Aaron Smith"
 msgstr "Credito immagine: Aaron Smith"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Resolution (restart)"
 msgstr "Risoluzione (riavvio)"
@@ -64,3 +60,7 @@ msgstr "Sensibilità analogica destra"
 msgctxt "#30008"
 msgid "Analog deadzone size"
 msgstr "Dimensione zona morta analogica"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
