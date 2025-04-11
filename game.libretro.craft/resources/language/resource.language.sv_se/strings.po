@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.craft\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 12:42i\n"
-"PO-Revision-Date: 2025-04-06 19:02+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-craft/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "Craft är en enkel Minecraft-klon som är skriven i C och använder mode
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Aaron Smith"
-msgstr ""
+msgstr "Bild: Aaron Smith"
 
 msgctxt "#30001"
 msgid "Resolution (restart)"
