@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.craft\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 12:42i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-craft/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Minecraft (Craft)"
@@ -35,31 +35,35 @@ msgstr "Upplösning (omstart)"
 
 msgctxt "#30002"
 msgid "Show info text"
-msgstr ""
+msgstr "Visa informationstext"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "Jumping Flash mode"
-msgstr ""
+msgstr "Jumping Flash-läge"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Field of view"
-msgstr ""
+msgstr "SYNFÄLT"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Draw distance"
-msgstr ""
+msgstr "Dragavstånd"
 
 msgctxt "#30006"
 msgid "Inverted aim"
-msgstr ""
+msgstr "Inverterat sikte"
 
 msgctxt "#30007"
 msgid "Right analog sensitivity"
-msgstr ""
+msgstr "Höger analog känslighet"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Analog deadzone size"
-msgstr ""
+msgstr "Storlek på analog dödzon"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
