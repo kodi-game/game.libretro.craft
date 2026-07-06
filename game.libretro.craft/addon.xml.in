@@ -24,6 +24,7 @@
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
 		<summary lang="en_GB">Minecraft (Craft)</summary>
+		<description lang="cs_CZ">Craft je jednoduchý klon Minecraftu napsaný v jazyce C s využitím moderního OpenGL.</description>
 		<description lang="da_DK">Craft er en simpel Minecraft-klon skrevet i C ved hjælp af moderne OpenGL.</description>
 		<description lang="de_DE">Craft ist ein einfacher Minecraft-Klon, der in C geschrieben wurde und modernes OpenGL verwendet.</description>
 		<description lang="en_GB">Craft is a simple Minecraft clone written in C using modern OpenGL.</description>
@@ -34,6 +35,7 @@
 		<description lang="ru_RU">Craft — это простой клон Minecraft, написанный на C с использованием современного OpenGL.</description>
 		<description lang="sv_SE">Craft är en enkel Minecraft-klon som är skriven i C och använder modern OpenGL.</description>
 		<description lang="zh_CN">Craft 是一个用 C 语言编写使用现代 OpenGL 的简单 Minecraft 克隆。</description>
+		<disclaimer lang="cs_CZ">Autor obrázku: Aaron Smith</disclaimer>
 		<disclaimer lang="da_DK">Billedkreditering: Aaron Smith</disclaimer>
 		<disclaimer lang="de_DE">Bildnachweis: Aaron Smith</disclaimer>
 		<disclaimer lang="en_GB">Image credit: Aaron Smith</disclaimer>
